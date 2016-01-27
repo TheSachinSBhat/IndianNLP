@@ -9,3 +9,13 @@ The list of sub-components would include:
 
 ##Translation API
   1. The API would feature server side code that would accept requests for translation and convert the input to appropriate target language.
+
+##Language Grammar
+  The documentation of Language Grammar for the following language families:
+  1. Indo-Aryan (Indic)
+  2. Dravidian
+  3. Iranian
+  4. Nuristani
+  5. Austro-Asiatic
+  6. Indo-Chinese (Sino-Tibetan)
+  7. Andamanese
